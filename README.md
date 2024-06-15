@@ -1,4 +1,7 @@
-.
+# Iris Classification
+
+## Introduction
+This repository contains a project on classifying the famous Iris dataset using various machine learning algorithms. The Iris dataset is a classic dataset in the field of machine learning and is often used for testing and benchmarking classification algorithms.
 
 ## Dataset
 The Iris dataset consists of 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). There are four features measured from each sample: the lengths and the widths of the sepals and petals.
